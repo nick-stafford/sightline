@@ -7,7 +7,7 @@ PIPELINE_DIR = Path(__file__).resolve().parent.parent
 PROJECT_DIR = PIPELINE_DIR.parent
 CACHE_DIR = PIPELINE_DIR / "cache"
 SQL_DIR = PIPELINE_DIR / "sql"
-DB_PATH = PIPELINE_DIR / "sightline.duckdb"
+DB_PATH = PIPELINE_DIR / "coverage.duckdb"
 WEB_DATA_DIR = PROJECT_DIR / "web" / "public" / "data"
 
 
@@ -34,7 +34,7 @@ _load_env()
 # an email address to anything that scrapes GitHub. Set SEC_CONTACT_EMAIL in
 # pipeline/.env before running fetch_data.py.
 SEC_CONTACT_EMAIL = os.environ.get("SEC_CONTACT_EMAIL", "")
-SEC_USER_AGENT = f"Sightline Research ({SEC_CONTACT_EMAIL})"
+SEC_USER_AGENT = f"YETI Coverage Research ({SEC_CONTACT_EMAIL})"
 SEC_DELAY = 0.2
 
 # Athletic and outdoor apparel/footwear. Sticking to one sector keeps the peer

@@ -17,8 +17,8 @@ from datetime import datetime, timezone
 import duckdb
 import pandas as pd
 
-from sightline import flags, narrative, normalize, scores
-from sightline.config import (
+from analysis import flags, narrative, normalize, scores
+from analysis.config import (
     CACHE_DIR,
     COHORT,
     DB_PATH,
@@ -303,7 +303,7 @@ def extract_block(path, start_marker, stop_prefixes):
 
 def code_samples():
     """The code excerpts shown in the "how this is built" section."""
-    pkg = PIPELINE_DIR / "sightline"
+    pkg = PIPELINE_DIR / "analysis"
     web_src = PIPELINE_DIR.parent / "web" / "src"
 
     return [
@@ -320,7 +320,7 @@ def code_samples():
             "key": "normalize",
             "label": "Python — XBRL normalizer",
             "language": "python",
-            "caption": "pipeline/sightline/normalize.py — the filter that reduces every "
+            "caption": "pipeline/analysis/normalize.py — the filter that reduces every "
                        "filing of a tag to one annual figure per year.",
             "source": extract_block(
                 pkg / "normalize.py", "def _annual_facts(", ("def ", "# ---")
@@ -330,7 +330,7 @@ def code_samples():
             "key": "scores",
             "label": "Python — Altman Z''",
             "language": "python",
-            "caption": "pipeline/sightline/scores.py — the distress model, with the "
+            "caption": "pipeline/analysis/scores.py — the distress model, with the "
                        "reasoning for the variant used.",
             "source": extract_block(pkg / "scores.py", "def altman_z(", ("def ", "# ---")),
         },

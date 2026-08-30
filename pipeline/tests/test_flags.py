@@ -7,7 +7,7 @@ rule at all.
 
 import pytest
 
-from sightline import flags
+from analysis import flags
 
 
 def year(**overrides):

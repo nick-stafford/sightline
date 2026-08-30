@@ -7,7 +7,7 @@ involved and how to check it worked.
 
 ## 1. Write the cash conversion cycle rule
 
-**Files:** `pipeline/sightline/flags.py`, `pipeline/tests/test_flags.py`
+**Files:** `pipeline/analysis/flags.py`, `pipeline/tests/test_flags.py`
 **Check:** `pytest tests/test_flags.py -q`
 
 There's a `TODO(nick)` in `flags.py` marking where this goes. The rule should fire when
@@ -61,7 +61,7 @@ receivables − payables) tells the story better than three separate lines.
 
 ## 4. Point it at a different company
 
-**Files:** `pipeline/sightline/config.py`
+**Files:** `pipeline/analysis/config.py`
 **Check:** `python build.py`
 
 `DEFAULT_TICKER` selects the company the page is about; the other seven stay as the peer
@@ -93,15 +93,15 @@ The page reports which one wrote the memo, so this is visible to anyone reading 
 
 ## 6. Deploy
 
-**Files:** `vercel.json` (already configured)
+Already live at https://nick-stafford.github.io/yeti-coverage/
 
-The repo root `vercel.json` builds `web/` and serves `web/dist`. Import the repo on
-Vercel and it should need no further configuration.
+`.github/workflows/deploy.yml` rebuilds the page and publishes it to GitHub Pages on
+every push to `master`. `web/public/data/*.json` is committed, so a deploy needs no
+Python, no database and no API key.
 
-`web/public/data/*.json` is committed, so the site builds without running the Python
-pipeline — the deploy does not need Python, a database, or any API key.
-
-Once it's live, put the URL at the top of `README.md`.
+`vercel.json` is also configured if you'd rather serve it from Vercel: it builds `web/`
+and serves `web/dist`. The Vite base is set to relative paths, so the same build works
+from a domain root or a repo subpath without changing anything.
 
 ---
 

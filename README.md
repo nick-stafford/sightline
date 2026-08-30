@@ -1,8 +1,8 @@
-# Sightline
+# YETI Coverage
 
 Financial analysis of YETI, built off their SEC filings.
 
-**Live:** https://nick-stafford.github.io/sightline/
+**Live:** https://nick-stafford.github.io/yeti-coverage/
 
 I spent two years doing month end close by hand before I wrote production software, so reading a set of financials is the part of this I actually know. I wanted something that did the reading for me. This pulls nine years of YETI's filings straight from the SEC, runs the metrics I'd look at anyway, and tells me what's worth a second look. It also ranks YETI against seven other apparel and outdoor names so the numbers mean something instead of sitting there on their own.
 
@@ -26,4 +26,4 @@ npm install
 npm run dev
 ```
 
-Everything comes from public SEC filings, as reported, nothing adjusted for one time items. Altman and Piotroski are published models, not my opinion. None of this is investment advice.
+Everything comes from public SEC filings, as reported, nothing adjusted for one time items. Altman and Piotroski are published models, not my opinion. None of this is investment advice, and I have no connection to YETI. It's just their public filings read closely.

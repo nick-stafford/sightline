@@ -6,7 +6,7 @@ whatever the code currently returns, so a changed coefficient fails the test.
 
 import pytest
 
-from sightline import scores
+from analysis import scores
 
 
 def company(**overrides):

@@ -2,7 +2,7 @@
 
 from datetime import date
 
-from sightline import normalize
+from analysis import normalize
 
 
 def facts(entries, tag="Revenues", unit="USD"):

@@ -14,7 +14,7 @@ import time
 import urllib.error
 import urllib.request
 
-from sightline.config import (
+from analysis.config import (
     CACHE_DIR,
     COHORT,
     SEC_CONTACT_EMAIL,

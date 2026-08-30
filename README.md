@@ -2,7 +2,7 @@
 
 Financial analysis of YETI, built off their SEC filings.
 
-**Live:** _(add the URL once it's deployed)_
+**Live:** https://nick-stafford.github.io/sightline/
 
 I spent two years doing month end close by hand before I wrote production software, so reading a set of financials is the part of this I actually know. I wanted something that did the reading for me. This pulls nine years of YETI's filings straight from the SEC, runs the metrics I'd look at anyway, and tells me what's worth a second look. It also ranks YETI against seven other apparel and outdoor names so the numbers mean something instead of sitting there on their own.
 

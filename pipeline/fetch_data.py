@@ -14,7 +14,13 @@ import time
 import urllib.error
 import urllib.request
 
-from sightline.config import CACHE_DIR, COHORT, SEC_DELAY, SEC_USER_AGENT
+from sightline.config import (
+    CACHE_DIR,
+    COHORT,
+    SEC_CONTACT_EMAIL,
+    SEC_DELAY,
+    SEC_USER_AGENT,
+)
 
 FACTS_URL = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik}.json"
 
@@ -39,6 +45,14 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--refresh", action="store_true", help="re-download even if cached")
     args = parser.parse_args()
+
+    if not SEC_CONTACT_EMAIL:
+        sys.exit(
+            "Set SEC_CONTACT_EMAIL before downloading.\n"
+            "The SEC requires a real contact address in the User-Agent on every\n"
+            "request and blocks traffic without one. Add this to pipeline/.env:\n\n"
+            "    SEC_CONTACT_EMAIL=you@example.com\n"
+        )
 
     CACHE_DIR.mkdir(exist_ok=True)
     failures = []

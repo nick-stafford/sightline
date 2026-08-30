@@ -1,5 +1,6 @@
 """Cohort definition and the XBRL tag -> line item mapping."""
 
+import os
 from pathlib import Path
 
 PIPELINE_DIR = Path(__file__).resolve().parent.parent
@@ -9,8 +10,31 @@ SQL_DIR = PIPELINE_DIR / "sql"
 DB_PATH = PIPELINE_DIR / "sightline.duckdb"
 WEB_DATA_DIR = PROJECT_DIR / "web" / "public" / "data"
 
-# SEC wants a real contact address in the User-Agent and <= 10 req/sec.
-SEC_USER_AGENT = "Sightline Research (nicholas.alexander.stafford@gmail.com)"
+
+def _load_env():
+    """Read pipeline/.env into the environment, without overriding real vars."""
+    env_file = PIPELINE_DIR / ".env"
+    if not env_file.exists():
+        return
+    for line in env_file.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
+_load_env()
+
+# The SEC requires a real contact address in the User-Agent on every request,
+# and asks for no more than 10 requests a second.
+# https://www.sec.gov/os/webmaster-faq#developers
+#
+# Read from the environment rather than hardcoded, so this repo isn't publishing
+# an email address to anything that scrapes GitHub. Set SEC_CONTACT_EMAIL in
+# pipeline/.env before running fetch_data.py.
+SEC_CONTACT_EMAIL = os.environ.get("SEC_CONTACT_EMAIL", "")
+SEC_USER_AGENT = f"Sightline Research ({SEC_CONTACT_EMAIL})"
 SEC_DELAY = 0.2
 
 # Athletic and outdoor apparel/footwear. Sticking to one sector keeps the peer

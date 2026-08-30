@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Raw SEC downloads (~28 MB). Regenerate with: python fetch_data.py
+pipeline/cache/*.json
+
+# Built warehouse -- rebuilt by build.py on every run
+pipeline/*.duckdb
+
+# Node
+node_modules/
+web/dist/
+*.local
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,79 @@
+{
+  "built_at": "2026-08-30T19:10:49+00:00",
+  "source": "SEC EDGAR XBRL company facts API",
+  "line_items_tracked": 27,
+  "facts_loaded": 1830,
+  "companies": 8,
+  "llm": {
+    "used": false,
+    "model": null
+  },
+  "coverage": [
+    {
+      "ticker": "YETI",
+      "fy": 2017,
+      "items": 27,
+      "missing": []
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2018,
+      "items": 27,
+      "missing": []
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2019,
+      "items": 26,
+      "missing": [
+        "ppe_net"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2020,
+      "items": 27,
+      "missing": []
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2021,
+      "items": 27,
+      "missing": []
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2022,
+      "items": 26,
+      "missing": [
+        "dividends_paid"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2023,
+      "items": 26,
+      "missing": [
+        "dividends_paid"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2024,
+      "items": 25,
+      "missing": [
+        "dividends_paid",
+        "interest_expense"
+      ]
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2025,
+      "items": 25,
+      "missing": [
+        "dividends_paid",
+        "interest_expense"
+      ]
+    }
+  ]
+}

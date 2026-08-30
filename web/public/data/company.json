@@ -1,0 +1,1902 @@
+{
+  "company": {
+    "ticker": "YETI",
+    "name": "YETI Holdings",
+    "cik": "0001670592",
+    "brands": "YETI"
+  },
+  "latest_fy": 2025,
+  "years": [
+    {
+      "ticker": "YETI",
+      "fy": 2017,
+      "period_end": "2017-12-30",
+      "revenue": 639239000.0,
+      "cogs": 344638000.0,
+      "gross_profit": 294601000.0,
+      "sga": 230634000.0,
+      "operating_income": 63967000.0,
+      "interest_expense": 32607000.0,
+      "pretax_income": 32059000.0,
+      "tax_expense": 16658000.0,
+      "net_income": 15401000.0,
+      "eps_diluted": 0.19,
+      "shares_diluted": 82972000.0,
+      "cash": 53650000.0,
+      "receivables": 67152000.0,
+      "inventory": 175098000.0,
+      "current_assets": 303034000.0,
+      "ppe_net": 73783000.0,
+      "total_assets": 516427000.0,
+      "accounts_payable": 40342000.0,
+      "current_liabilities": 151898000.0,
+      "total_liabilities": 592658000.0,
+      "retained_earnings": -296184000.0,
+      "equity": -76231000.0,
+      "long_term_debt": 428632000.0,
+      "dividends_paid": 2811000.0,
+      "operating_cash_flow": 147751000.0,
+      "capex": 42197000.0,
+      "depreciation_amortization": 20769000.0,
+      "revenue_1": 639239000.0,
+      "gross_profit_1": 294601000.0,
+      "ebitda": 84736000.0,
+      "ebit": 63967000.0,
+      "net_income_1": 15401000.0,
+      "eps_diluted_1": 0.19,
+      "operating_cash_flow_1": 147751000.0,
+      "free_cash_flow": 105554000.0,
+      "total_assets_1": 516427000.0,
+      "equity_1": -76231000.0,
+      "net_debt": 374982000.0,
+      "invested_capital": 364529000.0,
+      "revenue_growth": null,
+      "net_income_growth": null,
+      "gross_profit_growth": null,
+      "inventory_growth": null,
+      "receivables_growth": null,
+      "revenue_cagr_3y": null,
+      "gross_margin": 0.4608620562888059,
+      "ebitda_margin": 0.132557619294192,
+      "operating_margin": 0.10006742392125637,
+      "net_margin": 0.02409271023826769,
+      "sga_pct_revenue": 0.36079463236754955,
+      "roa": 0.029822220759177967,
+      "roe": -0.20203066993742702,
+      "asset_turnover": 1.2378109587608703,
+      "equity_multiplier": -6.774501187181068,
+      "net_debt_to_ebitda": 4.425297394259819,
+      "debt_to_equity": -5.6228043709252145,
+      "interest_coverage": 2.5987057993682336,
+      "current_ratio": 1.9949834757534661,
+      "quick_ratio": 0.8422494042054537,
+      "days_inventory": 185.44318966567818,
+      "days_receivables": 38.34321748203723,
+      "days_payables": 42.72549747851369,
+      "cash_conversion_cycle": 181.06090966920172,
+      "fcf_margin": 0.16512446831310354,
+      "fcf_conversion": 1.2456807024169185,
+      "capex_intensity": 0.06601130406624127,
+      "cash_conversion": 9.593597818323486,
+      "roic": 0.08429908258702451,
+      "accruals_ratio": -0.2562801712536331
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2018,
+      "period_end": "2018-12-29",
+      "revenue": 778833000.0,
+      "cogs": 395705000.0,
+      "gross_profit": 383128000.0,
+      "sga": 280972000.0,
+      "operating_income": 102156000.0,
+      "interest_expense": 31280000.0,
+      "pretax_income": 69615000.0,
+      "tax_expense": 11852000.0,
+      "net_income": 57763000.0,
+      "eps_diluted": 0.69,
+      "shares_diluted": 83519000.0,
+      "cash": 80051000.0,
+      "receivables": 59328000.0,
+      "inventory": 145423000.0,
+      "current_assets": 297013000.0,
+      "ppe_net": 74097000.0,
+      "total_assets": 514213000.0,
+      "accounts_payable": 68737000.0,
+      "current_liabilities": 187338000.0,
+      "total_liabilities": 485242000.0,
+      "retained_earnings": -240104000.0,
+      "equity": 28971000.0,
+      "long_term_debt": 284376000.0,
+      "dividends_paid": 2523000.0,
+      "operating_cash_flow": 176068000.0,
+      "capex": 20860000.0,
+      "depreciation_amortization": 24777000.0,
+      "revenue_1": 778833000.0,
+      "gross_profit_1": 383128000.0,
+      "ebitda": 126933000.0,
+      "ebit": 102156000.0,
+      "net_income_1": 57763000.0,
+      "eps_diluted_1": 0.69,
+      "operating_cash_flow_1": 176068000.0,
+      "free_cash_flow": 155208000.0,
+      "total_assets_1": 514213000.0,
+      "equity_1": 28971000.0,
+      "net_debt": 204325000.0,
+      "invested_capital": 326875000.0,
+      "revenue_growth": 0.21837528686453744,
+      "net_income_growth": 2.750600610349977,
+      "gross_profit_growth": 0.3004979616498247,
+      "inventory_growth": -0.16947652171926575,
+      "receivables_growth": -0.11651179413867052,
+      "revenue_cagr_3y": null,
+      "gross_margin": 0.4919257401779329,
+      "ebitda_margin": 0.16297845622874224,
+      "operating_margin": 0.13116547449838412,
+      "net_margin": 0.07416609208906146,
+      "sga_pct_revenue": 0.3607602656795488,
+      "roa": 0.11209151595125359,
+      "roe": -2.4444773592890394,
+      "asset_turnover": 1.5113579911511295,
+      "equity_multiplier": -21.80787134997884,
+      "net_debt_to_ebitda": 1.6097074834755343,
+      "debt_to_equity": 9.81588485036761,
+      "interest_coverage": 4.057960358056266,
+      "current_ratio": 1.5854391527613192,
+      "quick_ratio": 0.8091791307689844,
+      "days_inventory": 147.82497693989208,
+      "days_receivables": 29.637419061596002,
+      "days_payables": 50.30747021139485,
+      "cash_conversion_cycle": 127.15492579009324,
+      "fcf_margin": 0.1992827730720193,
+      "fcf_conversion": 1.2227553118574366,
+      "capex_intensity": 0.02678366222283853,
+      "cash_conversion": 3.048110382078493,
+      "roic": 0.2593158642624574,
+      "accruals_ratio": -0.2295757975626795
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2019,
+      "period_end": "2019-12-28",
+      "revenue": 913734000.0,
+      "cogs": 438420000.0,
+      "gross_profit": 475314000.0,
+      "sga": 385543000.0,
+      "operating_income": 89771000.0,
+      "interest_expense": 21779000.0,
+      "pretax_income": 67258000.0,
+      "tax_expense": 16824000.0,
+      "net_income": 50434000.0,
+      "eps_diluted": 0.58,
+      "shares_diluted": 86347000.0,
+      "cash": 72515000.0,
+      "receivables": 82688000.0,
+      "inventory": 185700000.0,
+      "current_assets": 360547000.0,
+      "ppe_net": null,
+      "total_assets": 629539000.0,
+      "accounts_payable": 83823000.0,
+      "current_liabilities": 170312000.0,
+      "total_liabilities": 507534000.0,
+      "retained_earnings": -189545000.0,
+      "equity": 122005000.0,
+      "long_term_debt": 281715000.0,
+      "dividends_paid": 636000.0,
+      "operating_cash_flow": 86893000.0,
+      "capex": 32077000.0,
+      "depreciation_amortization": 28959000.0,
+      "revenue_1": 913734000.0,
+      "gross_profit_1": 475314000.0,
+      "ebitda": 118730000.0,
+      "ebit": 89771000.0,
+      "net_income_1": 50434000.0,
+      "eps_diluted_1": 0.58,
+      "operating_cash_flow_1": 86893000.0,
+      "free_cash_flow": 54816000.0,
+      "total_assets_1": 629539000.0,
+      "equity_1": 122005000.0,
+      "net_debt": 209200000.0,
+      "invested_capital": 459227000.0,
+      "revenue_growth": 0.17320914753226946,
+      "net_income_growth": -0.12688052905839375,
+      "gross_profit_growth": 0.24061410285857465,
+      "inventory_growth": 0.2769644416632857,
+      "receivables_growth": 0.3937432578209277,
+      "revenue_cagr_3y": null,
+      "gross_margin": 0.5201885888015549,
+      "ebitda_margin": 0.12993934777517308,
+      "operating_margin": 0.09824631676177092,
+      "net_margin": 0.05519549453123119,
+      "sga_pct_revenue": 0.421942272039784,
+      "roa": 0.0881904468800929,
+      "roe": 0.6681061890631623,
+      "asset_turnover": 1.5977834355699487,
+      "equity_multiplier": 7.575720644340822,
+      "net_debt_to_ebitda": 1.761980965215194,
+      "debt_to_equity": 2.3090447112823247,
+      "interest_coverage": 5.451581798980669,
+      "current_ratio": 2.116979425994645,
+      "quick_ratio": 1.0266276011085538,
+      "days_inventory": 137.83574540395054,
+      "days_receivables": 28.364841408987736,
+      "days_payables": 63.505770722138585,
+      "cash_conversion_cycle": 102.69481609079969,
+      "fcf_margin": 0.05999120094031742,
+      "fcf_conversion": 0.46168617872483786,
+      "capex_intensity": 0.035105402666421516,
+      "cash_conversion": 1.7229051830114606,
+      "roic": 0.14658452160518598,
+      "accruals_ratio": -0.06375333114171604
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2020,
+      "period_end": "2021-01-02",
+      "revenue": 1091721000.0,
+      "cogs": 462918000.0,
+      "gross_profit": 628803000.0,
+      "sga": 414570000.0,
+      "operating_income": 214233000.0,
+      "interest_expense": 9155000.0,
+      "pretax_income": 205201000.0,
+      "tax_expense": 49400000.0,
+      "net_income": 155801000.0,
+      "eps_diluted": 1.77,
+      "shares_diluted": 87847000.0,
+      "cash": 253283000.0,
+      "receivables": 65417000.0,
+      "inventory": 140111000.0,
+      "current_assets": 476497000.0,
+      "ppe_net": 78075000.0,
+      "total_assets": 737067000.0,
+      "accounts_payable": 123621000.0,
+      "current_liabilities": 287759000.0,
+      "total_liabilities": 448649000.0,
+      "retained_earnings": -33744000.0,
+      "equity": 288418000.0,
+      "long_term_debt": 111017000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 366427000.0,
+      "capex": 15566000.0,
+      "depreciation_amortization": 30535000.0,
+      "revenue_1": 1091721000.0,
+      "gross_profit_1": 628803000.0,
+      "ebitda": 244768000.0,
+      "ebit": 214233000.0,
+      "net_income_1": 155801000.0,
+      "eps_diluted_1": 1.77,
+      "operating_cash_flow_1": 366427000.0,
+      "free_cash_flow": 350861000.0,
+      "total_assets_1": 737067000.0,
+      "equity_1": 288418000.0,
+      "net_debt": -142266000.0,
+      "invested_capital": 449308000.0,
+      "revenue_growth": 0.1947908253386652,
+      "net_income_growth": 2.0892056945711226,
+      "gross_profit_growth": 0.32292126888751427,
+      "inventory_growth": -0.24549811523963383,
+      "receivables_growth": -0.20886948529411764,
+      "revenue_cagr_3y": 0.19531618570340958,
+      "gross_margin": 0.5759740812899999,
+      "ebitda_margin": 0.2242038029862941,
+      "operating_margin": 0.1962342026946445,
+      "net_margin": 0.14271137039591617,
+      "sga_pct_revenue": 0.3797398785953554,
+      "roa": 0.22801158490450063,
+      "roe": 0.7592215835857152,
+      "asset_turnover": 1.5977114106040804,
+      "equity_multiplier": 3.3297500383750425,
+      "net_debt_to_ebitda": -0.5812279382925872,
+      "debt_to_equity": 0.38491703014374967,
+      "interest_coverage": 26.73599126160568,
+      "current_ratio": 1.655889129445126,
+      "quick_ratio": 1.1689851577187855,
+      "days_inventory": 128.44717098924647,
+      "days_receivables": 24.758305922483856,
+      "days_payables": 81.78236750353194,
+      "cash_conversion_cycle": 71.42310940819839,
+      "fcf_margin": 0.32138339374254044,
+      "fcf_conversion": 1.4334430971368806,
+      "capex_intensity": 0.01425822165186893,
+      "cash_conversion": 2.3518911945366203,
+      "roic": 0.36202035179859876,
+      "accruals_ratio": -0.30824685388473344
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2021,
+      "period_end": "2022-01-01",
+      "revenue": 1410989000.0,
+      "cogs": 594876000.0,
+      "gross_profit": 816113000.0,
+      "sga": 541175000.0,
+      "operating_income": 274938000.0,
+      "interest_expense": 3339000.0,
+      "pretax_income": 268410000.0,
+      "tax_expense": 55808000.0,
+      "net_income": 212602000.0,
+      "eps_diluted": 2.4,
+      "shares_diluted": 88666000.0,
+      "cash": 312189000.0,
+      "receivables": 109530000.0,
+      "inventory": 318864000.0,
+      "current_assets": 770167000.0,
+      "ppe_net": 119044000.0,
+      "total_assets": 1096364000.0,
+      "accounts_payable": 191319000.0,
+      "current_liabilities": 403713000.0,
+      "total_liabilities": 578541000.0,
+      "retained_earnings": 178858000.0,
+      "equity": 517823000.0,
+      "long_term_debt": 95741000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 146520000.0,
+      "capex": 56121000.0,
+      "depreciation_amortization": 32070000.0,
+      "revenue_1": 1410989000.0,
+      "gross_profit_1": 816113000.0,
+      "ebitda": 307008000.0,
+      "ebit": 274938000.0,
+      "net_income_1": 212602000.0,
+      "eps_diluted_1": 2.4,
+      "operating_cash_flow_1": 146520000.0,
+      "free_cash_flow": 90399000.0,
+      "total_assets_1": 1096364000.0,
+      "equity_1": 517823000.0,
+      "net_debt": -216448000.0,
+      "invested_capital": 692651000.0,
+      "revenue_growth": 0.29244468137921675,
+      "net_income_growth": 0.3645740399612325,
+      "gross_profit_growth": 0.29788343885127766,
+      "inventory_growth": 1.2757956191876443,
+      "receivables_growth": 0.6743354173991469,
+      "revenue_cagr_3y": 0.21906377932337073,
+      "gross_margin": 0.5783978471837838,
+      "ebitda_margin": 0.21758355309644511,
+      "operating_margin": 0.194854814601673,
+      "net_margin": 0.15067587344763142,
+      "sga_pct_revenue": 0.38354303258211087,
+      "roa": 0.23191709968905294,
+      "roe": 0.5273906933534762,
+      "asset_turnover": 1.5391787310239655,
+      "equity_multiplier": 2.2740483304619836,
+      "net_debt_to_ebitda": -0.7050239733166562,
+      "debt_to_equity": 0.18489136249258917,
+      "interest_coverage": 91.94609164420486,
+      "current_ratio": 1.9077091894489402,
+      "quick_ratio": 1.1178807717363572,
+      "days_inventory": 140.80739095206397,
+      "days_receivables": 22.627977610030978,
+      "days_payables": 96.61937950093801,
+      "cash_conversion_cycle": 66.81598906115693,
+      "fcf_margin": 0.06406782760177436,
+      "fcf_conversion": 0.2944516103814884,
+      "capex_intensity": 0.03977422928173076,
+      "cash_conversion": 0.6891750783153499,
+      "roic": 0.31440464757996583,
+      "accruals_ratio": 0.07208561434818109
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2022,
+      "period_end": "2022-12-31",
+      "revenue": 1595222000.0,
+      "cogs": 58600000.0,
+      "gross_profit": 763401000.0,
+      "sga": 637040000.0,
+      "operating_income": 126361000.0,
+      "interest_expense": 4466000.0,
+      "pretax_income": 116177000.0,
+      "tax_expense": 26484000.0,
+      "net_income": 89693000.0,
+      "eps_diluted": 1.03,
+      "shares_diluted": 87195000.0,
+      "cash": 234741000.0,
+      "receivables": 79446000.0,
+      "inventory": 371412000.0,
+      "current_assets": 718920000.0,
+      "ppe_net": 124587000.0,
+      "total_assets": 1076765000.0,
+      "accounts_payable": 140818000.0,
+      "current_liabilities": 409040000.0,
+      "total_liabilities": 550288000.0,
+      "retained_earnings": 268551000.0,
+      "equity": 526477000.0,
+      "long_term_debt": 71741000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 100894000.0,
+      "capex": 45929000.0,
+      "depreciation_amortization": 39847000.0,
+      "revenue_1": 1595222000.0,
+      "gross_profit_1": 763401000.0,
+      "ebitda": 166208000.0,
+      "ebit": 126361000.0,
+      "net_income_1": 89693000.0,
+      "eps_diluted_1": 1.03,
+      "operating_cash_flow_1": 100894000.0,
+      "free_cash_flow": 54965000.0,
+      "total_assets_1": 1076765000.0,
+      "equity_1": 526477000.0,
+      "net_debt": -163000000.0,
+      "invested_capital": 667725000.0,
+      "revenue_growth": 0.13057011783933103,
+      "net_income_growth": -0.5781177975748111,
+      "gross_profit_growth": -0.06458909489249653,
+      "inventory_growth": 0.16479753123588736,
+      "receivables_growth": -0.2746644754861681,
+      "revenue_cagr_3y": 0.20411263913787692,
+      "gross_margin": 0.4785547089997505,
+      "ebitda_margin": 0.10419114079419667,
+      "operating_margin": 0.07921217234967923,
+      "net_margin": 0.05622602998203385,
+      "sga_pct_revenue": 0.3993425366500713,
+      "roa": 0.08254733152058621,
+      "roe": 0.17177630948961026,
+      "asset_turnover": 1.4681337371136274,
+      "equity_multiplier": 2.0809432155510867,
+      "net_debt_to_ebitda": -0.9806988833269157,
+      "debt_to_equity": 0.13626616167467906,
+      "interest_coverage": 37.21630094043887,
+      "current_ratio": 1.7575787209074907,
+      "quick_ratio": 0.8495697242323489,
+      "days_inventory": 2149.750341296928,
+      "days_receivables": 21.61963663991595,
+      "days_payables": 1034.3857081911262,
+      "cash_conversion_cycle": 1136.9842697457177,
+      "fcf_margin": 0.03445601928759759,
+      "fcf_conversion": 0.330700086638429,
+      "capex_intensity": 0.028791603927227682,
+      "cash_conversion": 1.1248815403654688,
+      "roic": 0.14610120909673469,
+      "accruals_ratio": -0.010308637913349829
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2023,
+      "period_end": "2023-12-30",
+      "revenue": 1658713000.0,
+      "cogs": 715527000.0,
+      "gross_profit": 943186000.0,
+      "sga": 717728000.0,
+      "operating_income": 225458000.0,
+      "interest_expense": 942000.0,
+      "pretax_income": 225946000.0,
+      "tax_expense": 56061000.0,
+      "net_income": 169885000.0,
+      "eps_diluted": 1.94,
+      "shares_diluted": 87403000.0,
+      "cash": 438960000.0,
+      "receivables": 95774000.0,
+      "inventory": 337208000.0,
+      "current_assets": 914405000.0,
+      "ppe_net": 130714000.0,
+      "total_assets": 1297192000.0,
+      "accounts_payable": 190392000.0,
+      "current_liabilities": 398353000.0,
+      "total_liabilities": 573582000.0,
+      "retained_earnings": 438436000.0,
+      "equity": 723610000.0,
+      "long_term_debt": 78645000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 285942000.0,
+      "capex": 50672000.0,
+      "depreciation_amortization": 46434000.0,
+      "revenue_1": 1658713000.0,
+      "gross_profit_1": 943186000.0,
+      "ebitda": 271892000.0,
+      "ebit": 225458000.0,
+      "net_income_1": 169885000.0,
+      "eps_diluted_1": 1.94,
+      "operating_cash_flow_1": 285942000.0,
+      "free_cash_flow": 235270000.0,
+      "total_assets_1": 1297192000.0,
+      "equity_1": 723610000.0,
+      "net_debt": -360315000.0,
+      "invested_capital": 898839000.0,
+      "revenue_growth": 0.0398007299297527,
+      "net_income_growth": 0.8940720011595107,
+      "gross_profit_growth": 0.2355053242005185,
+      "inventory_growth": -0.09209180101881465,
+      "receivables_growth": 0.2055232484958336,
+      "revenue_cagr_3y": 0.14961704598946235,
+      "gross_margin": 0.5686251931467349,
+      "ebitda_margin": 0.16391744683980894,
+      "operating_margin": 0.13592345390673372,
+      "net_margin": 0.10241976761501236,
+      "sga_pct_revenue": 0.43270173924000116,
+      "roa": 0.14312390662509894,
+      "roe": 0.27179708292302857,
+      "asset_turnover": 1.3974246374302484,
+      "equity_multiplier": 1.8990334272734617,
+      "net_debt_to_ebitda": -1.325213687787798,
+      "debt_to_equity": 0.10868423598347177,
+      "interest_coverage": 288.63269639065817,
+      "current_ratio": 2.2954640733219027,
+      "quick_ratio": 1.448958586981898,
+      "days_inventory": 180.7383229423907,
+      "days_receivables": 19.278591293370223,
+      "days_payables": 84.47735026071693,
+      "cash_conversion_cycle": 115.539563975044,
+      "fcf_margin": 0.14183888351993382,
+      "fcf_conversion": 0.8653068129992791,
+      "capex_intensity": 0.030548985870370582,
+      "cash_conversion": 1.683150366424346,
+      "roic": 0.18859671309506512,
+      "accruals_ratio": -0.0977751492550202
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2024,
+      "period_end": "2024-12-28",
+      "revenue": 1829873000.0,
+      "cogs": 766589000.0,
+      "gross_profit": 1063284000.0,
+      "sga": 817908000.0,
+      "operating_income": 245376000.0,
+      "interest_expense": null,
+      "pretax_income": 232848000.0,
+      "tax_expense": 57159000.0,
+      "net_income": 175689000.0,
+      "eps_diluted": 2.05,
+      "shares_diluted": 85755000.0,
+      "cash": 358795000.0,
+      "receivables": 120190000.0,
+      "inventory": 310058000.0,
+      "current_assets": 826766000.0,
+      "ppe_net": 126270000.0,
+      "total_assets": 1286120000.0,
+      "accounts_payable": 158499000.0,
+      "current_liabilities": 379504000.0,
+      "total_liabilities": 546013000.0,
+      "retained_earnings": 614125000.0,
+      "equity": 740107000.0,
+      "long_term_debt": 72821000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 261386000.0,
+      "capex": 41832000.0,
+      "depreciation_amortization": 48132000.0,
+      "revenue_1": 1829873000.0,
+      "gross_profit_1": 1063284000.0,
+      "ebitda": 293508000.0,
+      "ebit": 245376000.0,
+      "net_income_1": 175689000.0,
+      "eps_diluted_1": 2.05,
+      "operating_cash_flow_1": 261386000.0,
+      "free_cash_flow": 219554000.0,
+      "total_assets_1": 1286120000.0,
+      "equity_1": 740107000.0,
+      "net_debt": -285974000.0,
+      "invested_capital": 906616000.0,
+      "revenue_growth": 0.1031884358535804,
+      "net_income_growth": 0.03416428760632195,
+      "gross_profit_growth": 0.12733225471964182,
+      "inventory_growth": -0.08051410405447079,
+      "receivables_growth": 0.2549334892559567,
+      "revenue_cagr_3y": 0.09051700052171219,
+      "gross_margin": 0.5810698338081386,
+      "ebitda_margin": 0.16039801669296175,
+      "operating_margin": 0.13409455191699096,
+      "net_margin": 0.09601158113158673,
+      "sga_pct_revenue": 0.44697528189114766,
+      "roa": 0.1360184135714153,
+      "roe": 0.2400586998716282,
+      "asset_turnover": 1.4166875700650947,
+      "equity_multiplier": 1.7648985425461343,
+      "net_debt_to_ebitda": -0.9743311936982978,
+      "debt_to_equity": 0.09839252972880948,
+      "interest_coverage": null,
+      "current_ratio": 2.1785435726632656,
+      "quick_ratio": 1.3615350562839916,
+      "days_inventory": 154.0930602969779,
+      "days_receivables": 21.538888217925507,
+      "days_payables": 83.05964147672351,
+      "cash_conversion_cycle": 92.57230703817991,
+      "fcf_margin": 0.11998319009024123,
+      "fcf_conversion": 0.748034125134579,
+      "capex_intensity": 0.022860602894299222,
+      "cash_conversion": 1.4877766963213406,
+      "roic": 0.20421176652134093,
+      "accruals_ratio": -0.06634661241073475
+    },
+    {
+      "ticker": "YETI",
+      "fy": 2025,
+      "period_end": "2026-01-03",
+      "revenue": 1868494000.0,
+      "cogs": 795810000.0,
+      "gross_profit": 1072684000.0,
+      "sga": 859127000.0,
+      "operating_income": 213557000.0,
+      "interest_expense": null,
+      "pretax_income": 220281000.0,
+      "tax_expense": 54894000.0,
+      "net_income": 165387000.0,
+      "eps_diluted": 2.03,
+      "shares_diluted": 81595000.0,
+      "cash": 188342000.0,
+      "receivables": 141424000.0,
+      "inventory": 290611000.0,
+      "current_assets": 660326000.0,
+      "ppe_net": 142105000.0,
+      "total_assets": 1235418000.0,
+      "accounts_payable": 140214000.0,
+      "current_liabilities": 334339000.0,
+      "total_liabilities": 585142000.0,
+      "retained_earnings": 779512000.0,
+      "equity": 650276000.0,
+      "long_term_debt": 68301000.0,
+      "dividends_paid": 0.0,
+      "operating_cash_flow": 254737000.0,
+      "capex": 42667000.0,
+      "depreciation_amortization": 54232000.0,
+      "revenue_1": 1868494000.0,
+      "gross_profit_1": 1072684000.0,
+      "ebitda": 267789000.0,
+      "ebit": 213557000.0,
+      "net_income_1": 165387000.0,
+      "eps_diluted_1": 2.03,
+      "operating_cash_flow_1": 254737000.0,
+      "free_cash_flow": 212070000.0,
+      "total_assets_1": 1235418000.0,
+      "equity_1": 650276000.0,
+      "net_debt": -120041000.0,
+      "invested_capital": 901079000.0,
+      "revenue_growth": 0.02110583630667273,
+      "net_income_growth": -0.05863770640165289,
+      "gross_profit_growth": 0.00884053554835762,
+      "inventory_growth": -0.062720523256939,
+      "receivables_growth": 0.1766702720692237,
+      "revenue_cagr_3y": 0.05412033746218681,
+      "gross_margin": 0.5740901496071168,
+      "ebitda_margin": 0.14331809467945844,
+      "operating_margin": 0.11429365039438179,
+      "net_margin": 0.08851353014780888,
+      "sga_pct_revenue": 0.45979649921273497,
+      "roa": 0.1311794626930072,
+      "roe": 0.23790135523808909,
+      "asset_turnover": 1.4820272389311602,
+      "equity_multiplier": 1.8135564085579297,
+      "net_debt_to_ebitda": -0.44826710581838686,
+      "debt_to_equity": 0.10503386254451956,
+      "interest_coverage": null,
+      "current_ratio": 1.9750193665710551,
+      "quick_ratio": 1.1058087749260481,
+      "days_inventory": 137.7490764127116,
+      "days_receivables": 25.55242617851596,
+      "days_payables": 68.5026859426245,
+      "cash_conversion_cycle": 94.79881664860305,
+      "fcf_margin": 0.11349782231037402,
+      "fcf_conversion": 0.7919294668563682,
+      "capex_intensity": 0.022834967626334364,
+      "cash_conversion": 1.5402480243308119,
+      "roic": 0.17794069113893327,
+      "accruals_ratio": -0.0708694455526746
+    }
+  ],
+  "analysis": [
+    {
+      "fy": 2017,
+      "period_end": "2017-12-30",
+      "altman": {
+        "score": 0.75,
+        "zone": "distress",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.2927,
+            "weight": 6.56,
+            "contribution": 1.92
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": -0.5735,
+            "weight": 3.26,
+            "contribution": -1.87
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1239,
+            "weight": 6.72,
+            "contribution": 0.83
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": -0.1286,
+            "weight": 1.05,
+            "contribution": -0.14
+          }
+        ]
+      },
+      "piotroski": null,
+      "flags": [
+        {
+          "key": "thin_interest_coverage",
+          "severity": "high",
+          "title": "Thin interest coverage",
+          "summary": "EBITDA covers interest 2.60x, below the 3x level lenders typically write covenants around. Leaves little room for an earnings decline before the capital structure becomes the problem.",
+          "evidence": [
+            {
+              "label": "EBITDA",
+              "value": "$85M"
+            },
+            {
+              "label": "Coverage",
+              "value": "2.60x"
+            }
+          ]
+        },
+        {
+          "key": "elevated_leverage",
+          "severity": "high",
+          "title": "Elevated leverage",
+          "summary": "Net debt sits at 4.43x EBITDA, above the 3x level that usually starts to constrain what a business can do next.",
+          "evidence": [
+            {
+              "label": "Net debt / EBITDA",
+              "value": "4.43x"
+            },
+            {
+              "label": "Net debt",
+              "value": "$375M"
+            },
+            {
+              "label": "EBITDA",
+              "value": "$85M"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2018,
+      "period_end": "2018-12-29",
+      "altman": {
+        "score": 1.27,
+        "zone": "grey",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.2133,
+            "weight": 6.56,
+            "contribution": 1.4
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": -0.4669,
+            "weight": 3.26,
+            "contribution": -1.52
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1987,
+            "weight": 6.72,
+            "contribution": 1.34
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 0.0597,
+            "weight": 1.05,
+            "contribution": 0.06
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 6,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 11.2%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$176M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": false,
+            "detail": "n/a"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "83.0% to 55.3% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": false,
+            "detail": "1.99x to 1.59x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "83.0M to 83.5M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "46.1% to 49.2%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": false,
+            "detail": "n/a"
+          }
+        ]
+      },
+      "flags": []
+    },
+    {
+      "fy": 2019,
+      "period_end": "2019-12-28",
+      "altman": {
+        "score": 2.21,
+        "zone": "grey",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.3022,
+            "weight": 6.56,
+            "contribution": 1.98
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": -0.3011,
+            "weight": 3.26,
+            "contribution": -0.98
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1426,
+            "weight": 6.72,
+            "contribution": 0.96
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 0.2404,
+            "weight": 1.05,
+            "contribution": 0.25
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 7,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 9.8%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$87M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": false,
+            "detail": "11.2% to 9.8%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "55.3% to 44.7% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": true,
+            "detail": "1.59x to 2.12x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": false,
+            "detail": "83.5M to 86.3M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "49.2% to 52.0%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": true,
+            "detail": "1.51x to 1.78x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "inventory_outpacing_sales",
+          "severity": "high",
+          "title": "Inventory growing faster than sales",
+          "summary": "Inventory rose 27.7% while revenue moved 17.3%, a gap of 10.4%. Stock is building ahead of demand, which typically gets resolved through discounting and shows up later as gross margin.",
+          "evidence": [
+            {
+              "label": "Inventory growth",
+              "value": "27.7%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "17.3%"
+            },
+            {
+              "label": "Days inventory",
+              "value": "138 days"
+            }
+          ]
+        },
+        {
+          "key": "receivables_outpacing_sales",
+          "severity": "medium",
+          "title": "Receivables growing faster than sales",
+          "summary": "Receivables rose 39.4% against 17.3% revenue growth. Either customers are paying more slowly or terms were loosened to move product. Both pull cash out of the business ahead of the income statement.",
+          "evidence": [
+            {
+              "label": "Receivables growth",
+              "value": "39.4%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "17.3%"
+            },
+            {
+              "label": "Days receivables",
+              "value": "28 days"
+            }
+          ]
+        },
+        {
+          "key": "weak_fcf_conversion",
+          "severity": "medium",
+          "title": "Weak free cash flow conversion",
+          "summary": "Only 46.2% of EBITDA reached free cash flow, below the 50% a business of this type would normally convert. The gap is capex and working capital.",
+          "evidence": [
+            {
+              "label": "EBITDA",
+              "value": "$119M"
+            },
+            {
+              "label": "Free cash flow",
+              "value": "$55M"
+            },
+            {
+              "label": "Conversion",
+              "value": "46.2%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2020,
+      "period_end": "2021-01-02",
+      "altman": {
+        "score": 4.16,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.2561,
+            "weight": 6.56,
+            "contribution": 1.68
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": -0.0458,
+            "weight": 3.26,
+            "contribution": -0.15
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.2907,
+            "weight": 6.72,
+            "contribution": 1.95
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 0.6429,
+            "weight": 1.05,
+            "contribution": 0.68
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 6,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 24.7%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$366M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": true,
+            "detail": "9.8% to 24.7%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "44.7% to 15.1% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": false,
+            "detail": "2.12x to 1.66x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": false,
+            "detail": "86.3M to 87.8M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "52.0% to 57.6%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": false,
+            "detail": "1.78x to 1.73x"
+          }
+        ]
+      },
+      "flags": []
+    },
+    {
+      "fy": 2021,
+      "period_end": "2022-01-01",
+      "altman": {
+        "score": 5.35,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.3342,
+            "weight": 6.56,
+            "contribution": 2.19
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": 0.1631,
+            "weight": 3.26,
+            "contribution": 0.53
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.2508,
+            "weight": 6.72,
+            "contribution": 1.69
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 0.895,
+            "weight": 1.05,
+            "contribution": 0.94
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 8,
+        "max": 9,
+        "band": "strong",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 28.8%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$147M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": true,
+            "detail": "24.7% to 28.8%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": false,
+            "detail": "Earnings running ahead of cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "15.1% to 8.7% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": true,
+            "detail": "1.66x to 1.91x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "87.8M to 88.7M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "57.6% to 57.8%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": true,
+            "detail": "1.73x to 1.91x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "inventory_outpacing_sales",
+          "severity": "high",
+          "title": "Inventory growing faster than sales",
+          "summary": "Inventory rose 127.6% while revenue moved 29.2%, a gap of 98.3%. Stock is building ahead of demand, which typically gets resolved through discounting and shows up later as gross margin.",
+          "evidence": [
+            {
+              "label": "Inventory growth",
+              "value": "127.6%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "29.2%"
+            },
+            {
+              "label": "Days inventory",
+              "value": "141 days"
+            }
+          ]
+        },
+        {
+          "key": "earnings_ahead_of_cash",
+          "severity": "high",
+          "title": "Earnings not converting to cash",
+          "summary": "Operating cash flow covered only 0.69x of net income. Reported profit is running ahead of the cash actually collected, which is worth tracing to working capital.",
+          "evidence": [
+            {
+              "label": "Operating cash flow",
+              "value": "$147M"
+            },
+            {
+              "label": "Net income",
+              "value": "$213M"
+            },
+            {
+              "label": "Conversion",
+              "value": "0.69x"
+            }
+          ]
+        },
+        {
+          "key": "receivables_outpacing_sales",
+          "severity": "medium",
+          "title": "Receivables growing faster than sales",
+          "summary": "Receivables rose 67.4% against 29.2% revenue growth. Either customers are paying more slowly or terms were loosened to move product. Both pull cash out of the business ahead of the income statement.",
+          "evidence": [
+            {
+              "label": "Receivables growth",
+              "value": "67.4%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "29.2%"
+            },
+            {
+              "label": "Days receivables",
+              "value": "23 days"
+            }
+          ]
+        },
+        {
+          "key": "weak_fcf_conversion",
+          "severity": "medium",
+          "title": "Weak free cash flow conversion",
+          "summary": "Only 29.4% of EBITDA reached free cash flow, below the 50% a business of this type would normally convert. The gap is capex and working capital.",
+          "evidence": [
+            {
+              "label": "EBITDA",
+              "value": "$307M"
+            },
+            {
+              "label": "Free cash flow",
+              "value": "$90M"
+            },
+            {
+              "label": "Conversion",
+              "value": "29.4%"
+            }
+          ]
+        },
+        {
+          "key": "high_accruals",
+          "severity": "medium",
+          "title": "High accrual component in earnings",
+          "summary": "Accruals ran at 7.2% of assets. Research on accruals finds the non-cash portion of earnings is the least likely to repeat next year.",
+          "evidence": [
+            {
+              "label": "Accruals / assets",
+              "value": "7.2%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2022,
+      "period_end": "2022-12-31",
+      "altman": {
+        "score": 4.49,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.2878,
+            "weight": 6.56,
+            "contribution": 1.89
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": 0.2494,
+            "weight": 3.26,
+            "contribution": 0.81
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1174,
+            "weight": 6.72,
+            "contribution": 0.79
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 0.9567,
+            "weight": 1.05,
+            "contribution": 1.0
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 5,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 8.2%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$101M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": false,
+            "detail": "28.8% to 8.2%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "8.7% to 6.7% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": false,
+            "detail": "1.91x to 1.76x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "88.7M to 87.2M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": false,
+            "detail": "57.8% to 47.9%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": false,
+            "detail": "1.91x to 1.46x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "gross_margin_compression",
+          "severity": "medium",
+          "title": "Gross margin compressed",
+          "summary": "Gross margin fell from 57.8% to 47.9%, down 998 basis points. Worth separating into price, input cost and mix before drawing a conclusion.",
+          "evidence": [
+            {
+              "label": "Prior gross margin",
+              "value": "57.8%"
+            },
+            {
+              "label": "Current gross margin",
+              "value": "47.9%"
+            }
+          ]
+        },
+        {
+          "key": "weak_fcf_conversion",
+          "severity": "medium",
+          "title": "Weak free cash flow conversion",
+          "summary": "Only 33.1% of EBITDA reached free cash flow, below the 50% a business of this type would normally convert. The gap is capex and working capital.",
+          "evidence": [
+            {
+              "label": "EBITDA",
+              "value": "$166M"
+            },
+            {
+              "label": "Free cash flow",
+              "value": "$55M"
+            },
+            {
+              "label": "Conversion",
+              "value": "33.1%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2023,
+      "period_end": "2023-12-30",
+      "altman": {
+        "score": 6.2,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.3978,
+            "weight": 6.56,
+            "contribution": 2.61
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": 0.338,
+            "weight": 3.26,
+            "contribution": 1.1
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1738,
+            "weight": 6.72,
+            "contribution": 1.17
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 1.2616,
+            "weight": 1.05,
+            "contribution": 1.32
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 9,
+        "max": 9,
+        "band": "strong",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 15.8%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$286M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": true,
+            "detail": "8.2% to 15.8%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "6.7% to 6.1% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": true,
+            "detail": "1.76x to 2.30x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "87.2M to 87.4M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "47.9% to 56.9%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": true,
+            "detail": "1.46x to 1.54x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "receivables_outpacing_sales",
+          "severity": "medium",
+          "title": "Receivables growing faster than sales",
+          "summary": "Receivables rose 20.6% against 4.0% revenue growth. Either customers are paying more slowly or terms were loosened to move product. Both pull cash out of the business ahead of the income statement.",
+          "evidence": [
+            {
+              "label": "Receivables growth",
+              "value": "20.6%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "4.0%"
+            },
+            {
+              "label": "Days receivables",
+              "value": "19 days"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2024,
+      "period_end": "2024-12-28",
+      "altman": {
+        "score": 6.54,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.3478,
+            "weight": 6.56,
+            "contribution": 2.28
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": 0.4775,
+            "weight": 3.26,
+            "contribution": 1.56
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1908,
+            "weight": 6.72,
+            "contribution": 1.28
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 1.3555,
+            "weight": 1.05,
+            "contribution": 1.42
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 6,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 13.5%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$261M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": false,
+            "detail": "15.8% to 13.5%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "6.1% to 5.7% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": false,
+            "detail": "2.30x to 2.18x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "87.4M to 85.8M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": true,
+            "detail": "56.9% to 58.1%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": false,
+            "detail": "1.54x to 1.41x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "receivables_outpacing_sales",
+          "severity": "medium",
+          "title": "Receivables growing faster than sales",
+          "summary": "Receivables rose 25.5% against 10.3% revenue growth. Either customers are paying more slowly or terms were loosened to move product. Both pull cash out of the business ahead of the income statement.",
+          "evidence": [
+            {
+              "label": "Receivables growth",
+              "value": "25.5%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "10.3%"
+            },
+            {
+              "label": "Days receivables",
+              "value": "22 days"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fy": 2025,
+      "period_end": "2026-01-03",
+      "altman": {
+        "score": 6.12,
+        "zone": "safe",
+        "components": [
+          {
+            "key": "working_capital_to_assets",
+            "label": "Working Capital / Assets",
+            "value": 0.2639,
+            "weight": 6.56,
+            "contribution": 1.73
+          },
+          {
+            "key": "retained_earnings_to_assets",
+            "label": "Retained Earnings / Assets",
+            "value": 0.631,
+            "weight": 3.26,
+            "contribution": 2.06
+          },
+          {
+            "key": "ebit_to_assets",
+            "label": "EBIT / Assets",
+            "value": 0.1729,
+            "weight": 6.72,
+            "contribution": 1.16
+          },
+          {
+            "key": "equity_to_liabilities",
+            "label": "Equity / Total Liabilities",
+            "value": 1.1113,
+            "weight": 1.05,
+            "contribution": 1.17
+          }
+        ]
+      },
+      "piotroski": {
+        "score": 6,
+        "max": 9,
+        "band": "moderate",
+        "signals": [
+          {
+            "key": "roa_positive",
+            "category": "Profitability",
+            "label": "Return on assets is positive",
+            "passed": true,
+            "detail": "ROA 12.9%"
+          },
+          {
+            "key": "cfo_positive",
+            "category": "Profitability",
+            "label": "Operating cash flow is positive",
+            "passed": true,
+            "detail": "$255M"
+          },
+          {
+            "key": "roa_improving",
+            "category": "Profitability",
+            "label": "Return on assets improved",
+            "passed": false,
+            "detail": "13.5% to 12.9%"
+          },
+          {
+            "key": "accruals_clean",
+            "category": "Profitability",
+            "label": "Cash flow exceeds net income",
+            "passed": true,
+            "detail": "Earnings backed by cash"
+          },
+          {
+            "key": "leverage_falling",
+            "category": "Leverage",
+            "label": "Long-term debt ratio did not rise",
+            "passed": true,
+            "detail": "5.7% to 5.5% of assets"
+          },
+          {
+            "key": "liquidity_rising",
+            "category": "Leverage",
+            "label": "Current ratio improved",
+            "passed": false,
+            "detail": "2.18x to 1.98x"
+          },
+          {
+            "key": "no_dilution",
+            "category": "Leverage",
+            "label": "No net new shares issued",
+            "passed": true,
+            "detail": "85.8M to 81.6M diluted shares"
+          },
+          {
+            "key": "margin_rising",
+            "category": "Efficiency",
+            "label": "Gross margin expanded",
+            "passed": false,
+            "detail": "58.1% to 57.4%"
+          },
+          {
+            "key": "turnover_rising",
+            "category": "Efficiency",
+            "label": "Asset turnover improved",
+            "passed": true,
+            "detail": "1.41x to 1.45x"
+          }
+        ]
+      },
+      "flags": [
+        {
+          "key": "receivables_outpacing_sales",
+          "severity": "medium",
+          "title": "Receivables growing faster than sales",
+          "summary": "Receivables rose 17.7% against 2.1% revenue growth. Either customers are paying more slowly or terms were loosened to move product. Both pull cash out of the business ahead of the income statement.",
+          "evidence": [
+            {
+              "label": "Receivables growth",
+              "value": "17.7%"
+            },
+            {
+              "label": "Revenue growth",
+              "value": "2.1%"
+            },
+            {
+              "label": "Days receivables",
+              "value": "26 days"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "drivers": {
+    "base_year": 2025,
+    "base_revenue": 1868494000.0,
+    "revenue_growth": 0.0547,
+    "gross_margin": 0.5746,
+    "sga_pct_revenue": 0.4465,
+    "capex_intensity": 0.0254,
+    "days_inventory": 157.5268,
+    "days_receivables": 22.1233,
+    "days_payables": 78.6799,
+    "da_pct_revenue": 0.029,
+    "tax_rate": 0.2492,
+    "opening_cash": 188342000.0,
+    "opening_debt": 68301000.0
+  },
+  "memo": {
+    "text": "YETI Holdings reported revenue of $1.87B in FY2025, which grew 2.1% against the prior year. Gross margin came in at 57.4% versus 58.1% a year earlier, and the business generated $255M of operating cash flow against $165M of net income.\n\nThe Altman Z''-Score of 6.12 places the company in the safe zone for distress risk, and the Piotroski F-Score of 6 of 9 reads as moderate on fundamental quality. The rule engine raised 1 flag this year: receivables growing faster than sales.\n\nRead these as screening signals rather than conclusions. The scores are published academic models applied to reported figures, and they describe what the statements show, not what management intends or what the market expects. The next step is the filing itself, specifically the segment detail and the discussion of margin drivers.",
+    "source": "template",
+    "model": null
+  }
+}

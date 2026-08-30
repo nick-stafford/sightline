@@ -1,0 +1,924 @@
+{
+  "fy": 2025,
+  "cohort": [
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "cik": "0000103379",
+      "brands": "The North Face, Vans, Timberland"
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "cik": "0000320187",
+      "brands": "Nike, Jordan, Converse"
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "cik": "0000910521",
+      "brands": "Hoka, Ugg, Teva"
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "cik": "0001397187",
+      "brands": "Lululemon"
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "cik": "0001050797",
+      "brands": "Columbia, Sorel, prAna"
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "cik": "0001336917",
+      "brands": "Under Armour"
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "cik": "0001334036",
+      "brands": "Crocs, HeyDude"
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "cik": "0001670592",
+      "brands": "YETI"
+    }
+  ],
+  "highlights": [
+    {
+      "key": "gross_margin",
+      "label": "Gross margin",
+      "format": "percent"
+    },
+    {
+      "key": "ebitda_margin",
+      "label": "EBITDA margin",
+      "format": "percent"
+    },
+    {
+      "key": "roic",
+      "label": "ROIC",
+      "format": "percent"
+    },
+    {
+      "key": "revenue_growth",
+      "label": "Revenue growth",
+      "format": "percent"
+    },
+    {
+      "key": "net_debt_to_ebitda",
+      "label": "Net debt / EBITDA",
+      "format": "multiple"
+    },
+    {
+      "key": "fcf_conversion",
+      "label": "FCF conversion",
+      "format": "percent"
+    },
+    {
+      "key": "cash_conversion_cycle",
+      "label": "Cash conversion cycle",
+      "format": "days"
+    }
+  ],
+  "ranks": [
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "asset_turnover",
+      "value": 1.5079314363689145,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "asset_turnover",
+      "value": 1.4820272389311602,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "asset_turnover",
+      "value": 1.3826370864073458,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "asset_turnover",
+      "value": 1.237461494352505,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "asset_turnover",
+      "value": 1.1509113347803213,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "asset_turnover",
+      "value": 1.1395245718927123,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "asset_turnover",
+      "value": 1.0290716382879896,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "asset_turnover",
+      "value": 0.899230135231236,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "cash_conversion_cycle",
+      "value": 35.912847271646356,
+      "percentile": 1.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "cash_conversion_cycle",
+      "value": 45.22615086875258,
+      "percentile": 0.8571428571428572,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "cash_conversion_cycle",
+      "value": 94.79881664860305,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "cash_conversion_cycle",
+      "value": 96.39056366844875,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "cash_conversion_cycle",
+      "value": 101.31233808100274,
+      "percentile": 0.4285714285714286,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "cash_conversion_cycle",
+      "value": 110.18341949968108,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "cash_conversion_cycle",
+      "value": 110.32646973393162,
+      "percentile": 0.1428571428571429,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "cash_conversion_cycle",
+      "value": 118.0082549167928,
+      "percentile": 0.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "current_ratio",
+      "value": 3.5449722289242036,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "current_ratio",
+      "value": 2.592615277847148,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "current_ratio",
+      "value": 2.258327205453848,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "current_ratio",
+      "value": 1.9750193665710551,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "current_ratio",
+      "value": 1.9608671395552721,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "current_ratio",
+      "value": 1.838238341588834,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "current_ratio",
+      "value": 1.6213655171262165,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "current_ratio",
+      "value": 1.2653139635695707,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "days_inventory",
+      "value": 77.44830789304277,
+      "percentile": 1.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "days_inventory",
+      "value": 78.58301328350336,
+      "percentile": 0.8571428571428572,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "days_inventory",
+      "value": 103.28368633669348,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "days_inventory",
+      "value": 119.03517985384566,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "days_inventory",
+      "value": 125.41297231554283,
+      "percentile": 0.4285714285714286,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "days_inventory",
+      "value": 125.9791816123985,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "days_inventory",
+      "value": 137.7490764127116,
+      "percentile": 0.1428571428571429,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "days_inventory",
+      "value": 149.85145888830908,
+      "percentile": 0.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "ebitda_margin",
+      "value": 0.24462784907833934,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "ebitda_margin",
+      "value": 0.24380262280907175,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "ebitda_margin",
+      "value": 0.14331809467945844,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "ebitda_margin",
+      "value": 0.10015517910254752,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "ebitda_margin",
+      "value": 0.08923264225331115,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "ebitda_margin",
+      "value": 0.07767051446847853,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "ebitda_margin",
+      "value": 0.056623852566185566,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "ebitda_margin",
+      "value": -0.010770240638534784,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "fcf_conversion",
+      "value": 3.0317074538690196,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "fcf_conversion",
+      "value": 2.8811566585226207,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "fcf_conversion",
+      "value": 0.8213655002008534,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "fcf_conversion",
+      "value": 0.8197144043816428,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "fcf_conversion",
+      "value": 0.7919294668563682,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "fcf_conversion",
+      "value": 0.6493621499525142,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "fcf_conversion",
+      "value": 0.4699806326662363,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "fcf_conversion",
+      "value": 0.34049813749818514,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "fcf_margin",
+      "value": 0.2005249716024133,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "fcf_margin",
+      "value": 0.16314218985226872,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "fcf_margin",
+      "value": 0.11349782231037402,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "fcf_margin",
+      "value": 0.08301433898366148,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "fcf_margin",
+      "value": 0.0637958809672595,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "fcf_margin",
+      "value": 0.05794430041955369,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "fcf_margin",
+      "value": 0.047070994439415495,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "fcf_margin",
+      "value": -0.03265221882380894,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "gross_margin",
+      "value": 0.5833360350458726,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "gross_margin",
+      "value": 0.5770385958654284,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "gross_margin",
+      "value": 0.5740901496071168,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "gross_margin",
+      "value": 0.566005440167168,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "gross_margin",
+      "value": 0.5477981890447545,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "gross_margin",
+      "value": 0.5053119327381834,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "gross_margin",
+      "value": 0.4548307919063622,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "gross_margin",
+      "value": 0.42913487650329757,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "net_debt_to_ebitda",
+      "value": -5.261661276150236,
+      "percentile": 1.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "net_debt_to_ebitda",
+      "value": -1.6751479872969675,
+      "percentile": 0.8571428571428572,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "net_debt_to_ebitda",
+      "value": -1.4247278654431692,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "net_debt_to_ebitda",
+      "value": -0.6676419725857762,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "net_debt_to_ebitda",
+      "value": -0.44826710581838686,
+      "percentile": 0.4285714285714286,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "net_debt_to_ebitda",
+      "value": -0.34882720034430814,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "net_debt_to_ebitda",
+      "value": 3.1454127766019755,
+      "percentile": 0.1428571428571429,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "net_debt_to_ebitda",
+      "value": 4.8100761810688075,
+      "percentile": 0.0,
+      "higher_is_better": false
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "operating_margin",
+      "value": 0.23078119312259424,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "operating_margin",
+      "value": 0.19910786662583538,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "operating_margin",
+      "value": 0.11429365039438179,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "operating_margin",
+      "value": 0.08405534721324195,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "operating_margin",
+      "value": 0.060941303974773285,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "operating_margin",
+      "value": 0.06002671259453336,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "operating_margin",
+      "value": 0.037002737432891314,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "operating_margin",
+      "value": -0.0328433040631286,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "revenue_growth",
+      "value": 0.09761770470706499,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "revenue_growth",
+      "value": 0.048589712664922846,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "revenue_growth",
+      "value": 0.02110583630667273,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "revenue_growth",
+      "value": 0.010575409553030157,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "revenue_growth",
+      "value": 0.008540388804547439,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "revenue_growth",
+      "value": 0.0019218726381480256,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "revenue_growth",
+      "value": -0.014982784461062493,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "revenue_growth",
+      "value": -0.038328450460952235,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "roe",
+      "value": 0.4085945740088428,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "roe",
+      "value": 0.3401253967445436,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "roe",
+      "value": 0.23790135523808909,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "roe",
+      "value": 0.2213832894080775,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "roe",
+      "value": 0.15277308743730217,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "roe",
+      "value": 0.10155573548886562,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "roe",
+      "value": -0.05190003883011107,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "roe",
+      "value": -0.2999681054324256,
+      "percentile": 0.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Outdoor",
+      "metric": "roic",
+      "value": 0.33813586261177336,
+      "percentile": 1.0,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "metric": "roic",
+      "value": 0.2373480819588599,
+      "percentile": 0.8571428571428571,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings",
+      "metric": "roic",
+      "value": 0.17794069113893327,
+      "percentile": 0.7142857142857143,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "NKE",
+      "name": "Nike",
+      "metric": "roic",
+      "value": 0.12017167381974249,
+      "percentile": 0.5714285714285714,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "COLM",
+      "name": "Columbia Sportswear",
+      "metric": "roic",
+      "value": 0.07371611647455731,
+      "percentile": 0.42857142857142855,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "metric": "roic",
+      "value": 0.06059188245862907,
+      "percentile": 0.2857142857142857,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs",
+      "metric": "roic",
+      "value": -0.04787741568419001,
+      "percentile": 0.14285714285714285,
+      "higher_is_better": true
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour",
+      "metric": "roic",
+      "value": -0.14702580989059308,
+      "percentile": 0.0,
+      "higher_is_better": true
+    }
+  ]
+}

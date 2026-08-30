@@ -18,6 +18,7 @@ pipeline/*.duckdb
 # Node
 node_modules/
 web/dist/
+*.tsbuildinfo
 *.local
 
 # Editors / OS
